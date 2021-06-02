@@ -56,31 +56,31 @@
 
 ## 나의 결과물: 매출현황 페이지 구현
 
-1. NLTK 패키지를 이용한 키워드 WordCloud 시각화
+### 1. NLTK 패키지를 이용한 키워드 WordCloud 시각화
 ![RD03](https://user-images.githubusercontent.com/68997381/120440059-2b254f00-c3be-11eb-9a36-eebdb34bcc2b.PNG)
 ![RD04](https://user-images.githubusercontent.com/68997381/120440066-2d87a900-c3be-11eb-8da1-66b84f0c1750.PNG)
 
 
-2. Pipeline 생성
+### 2. Pipeline 생성
 ![RD05](https://user-images.githubusercontent.com/68997381/120440125-3c6e5b80-c3be-11eb-8323-637b6268d0ee.PNG)
 
 
-3. 하이퍼파라미터 튜닝
+### 3. 하이퍼파라미터 튜닝
 ![RD07](https://user-images.githubusercontent.com/68997381/120440232-4f812b80-c3be-11eb-9f77-41cec8a53209.PNG)
 
 <성능측정 결과>
 ![RD06](https://user-images.githubusercontent.com/68997381/120440413-7b041600-c3be-11eb-9f27-d50d476974b8.PNG)
 
 
-4. 성능이 높은 알고리즘을 이용해 토큰화 조합 찾기
+### 4. 성능이 높은 알고리즘을 이용해 토큰화 조합 찾기
 <성능측정 결과>
 ![RD08](https://user-images.githubusercontent.com/68997381/120440479-8fe0a980-c3be-11eb-96cd-9798ff8f6cac.PNG)
 
-<ROC Curve>
-![RD10](https://user-images.githubusercontent.com/68997381/120440707-c9191980-c3be-11eb-878d-50a76b4b3394.PNG)
-  
 
-5. 성능 높은 알고리즘과 토큰화 조합으로 성능 재측정
+<ROC Curve>
+![RD10](https://user-images.githubusercontent.com/68997381/120441011-1ac1a400-c3bf-11eb-94a6-3fe4e54bbba8.PNG)
+  
+### 5. 성능 높은 알고리즘과 토큰화 조합으로 성능 재측정
 <성능측정 결과>
 ![RD09](https://user-images.githubusercontent.com/68997381/120440610-b1419580-c3be-11eb-8a0e-328718611b4e.PNG)
 
