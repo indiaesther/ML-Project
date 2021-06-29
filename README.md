@@ -1,3 +1,4 @@
+![120441011-1ac1a400-c3bf-11eb-94a6-3fe4e54bbba8](https://user-images.githubusercontent.com/68997381/123753809-33a57280-d8f5-11eb-9ab6-1365cd42ea38.png)
 # ML-Project
 비정형 데이터를 활용한 인공지능 자연어 전처리과정 201127-210226
 
@@ -70,6 +71,8 @@
 
 <성능측정 결과>
 ![RD06](https://user-images.githubusercontent.com/68997381/120440413-7b041600-c3be-11eb-9f27-d50d476974b8.PNG)
+![120441011-1ac1a400-c3bf-11eb-94a6-3fe4e54bbba8](https://user-images.githubusercontent.com/68997381/123753837-386a2680-d8f5-11eb-90d3-b287a682c44e.png)
+
 
 
 ### 4. 성능이 높은 알고리즘을 이용해 토큰화 조합 찾기
