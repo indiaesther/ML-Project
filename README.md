@@ -1,4 +1,3 @@
-![120441011-1ac1a400-c3bf-11eb-94a6-3fe4e54bbba8](https://user-images.githubusercontent.com/68997381/123753809-33a57280-d8f5-11eb-9ab6-1365cd42ea38.png)
 # ML-Project
 비정형 데이터를 활용한 인공지능 자연어 전처리과정 201127-210226
 
