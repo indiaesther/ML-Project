@@ -54,7 +54,7 @@
 - 분류 모델 성능 개선
 
 
-## 나의 결과물: 매출현황 페이지 구현
+## 나의 결과물
 
 ### 1. NLTK 패키지를 이용한 키워드 WordCloud 시각화
 ![RD03](https://user-images.githubusercontent.com/68997381/120440059-2b254f00-c3be-11eb-9a36-eebdb34bcc2b.PNG)
